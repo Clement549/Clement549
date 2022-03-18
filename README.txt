@@ -1,9 +1,7 @@
-# Mike Codeur
-I'm Mike from France, living in Bali 🌴, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React. 
+# Clément ROURE
+I'm Clément from France, living in Paris - La Défense. I'm a blockchain engineering student at ESILV and I build Android & IOS mobile apps as a freelancer.
 
 <!--
-**MikeCodeur/MikeCodeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Actually:
 
 - 🔭 I’m currently working on a new [Online Course][courses] ...
@@ -82,6 +80,7 @@ Actually:
       Eat-->Sleep;
       Sleep-->Code;
 ```
+-->
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -95,7 +94,7 @@ Actually:
 ### ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCodeur&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
@@ -117,9 +116,5 @@ Actually:
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.2&rpar; – ARGENT, CODE, FREELANCE, ENTREPRENARIAT](https://www.mikecodeur.com/2022/02/17/je-reponds-a-vos-questions-chill-and-qna-ep-2-argent-code-freelance-entreprenariat/)
 <!-- BLOG-POST-LIST:END -->
 </details>
+-->
 
-[courses]: https://formations.mikecodeur.com
-[website]: https://go.mikecodeur.com/blog
-[insta]: https://go.mikecodeur.com/instagram
-[Youtube]: https://go.mikecodeur.com/youtube
-[youtubeplaylist]: https://www.youtube.com/channel/UC7BNBNLwMF8GjgXLDP8PWQw

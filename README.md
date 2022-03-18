@@ -1,5 +1,6 @@
 # Clément ROURE
-I'm Clément from France, living in Paris - La Défense. I'm a blockchain engineering student at ESILV and I build Android & IOS mobile apps as a freelancer.
+I'm Clément from France, living in Paris - La Défense. 🥖 
+I'm a blockchain engineering student at ESILV and I build Android & IOS mobile apps as a freelancer.
 
 <!--
 Actually:
@@ -82,39 +83,32 @@ Actually:
 ```
 -->
 
-### 🔥 Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-2. 💪 Opened PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-3. 🎉 Merged PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-4. 💪 Opened PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-5. 🎉 Merged PR [#9](https://github.com/MikeCodeur/react-hooks-avances/pull/9) in [MikeCodeur/react-hooks-avances](https://github.com/MikeCodeur/react-hooks-avances)
-<!--END_SECTION:activity-->
-
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeCodeur&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clement549&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ### 📺 Last Youtube:
 
-<!-- YOUTUBE:START -->
+
 - [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.youtube.com/watch?v=vD-t_IohSbo)
 - [REACT JS EST-IL TROP DIFFICILE ? 3 CAUSES D&#39;ÉCHEC &lpar;retour d&#39;experience&rpar;](https://www.youtube.com/watch?v=iWW_dYh1E18)
 - [DÉVELOPPEUR, FREELANCE ET NOMADE, LE COMBO GAGANT ? - &lpar;LES 3 AVANTAGES&rpar;](https://www.youtube.com/watch?v=sSLjOVdom-w)
 - [5 LIBRAIRIES REACT À CONNAITRE ABSOLUMENT EN 2022 ! &lpar;DÉBUTANTS / INTERMEDIAIRES&rpar;](https://www.youtube.com/watch?v=HS3Q_dKAHZk)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.2&rpar; - ARGENT, CODE, FREELANCE, ENTREPRENARIAT](https://www.youtube.com/watch?v=InEh4fvVWT4)
-<!-- YOUTUBE:END -->
+
 
 <details>
   <summary>📒 Latest blog content</summary>
 
-<!-- BLOG-POST-LIST:START -->
+
 - [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.mikecodeur.com/2022/03/17/github-comment-creer-un-profil-avance-avec-les-actions-github/)
 - [REACT JS EST-IL TROP DIFFICILE ? 3 CAUSES D’ÉCHEC &lpar;retour d’experience&rpar;](https://www.mikecodeur.com/2022/03/10/react-js-est-il-trop-difficile-3-causes-dechec-retour-dexperience/)
 - [DÉVELOPPEUR, FREELANCE ET NOMADE, LE COMBO GAGANT ? – &lpar;LES 3 AVANTAGES&rpar;](https://www.mikecodeur.com/2022/03/03/developpeur-freelance-et-nomade-le-combo-gagant-les-3-avantages/)
 - [5 LIBRAIRIES REACT À CONNAITRE ABSOLUMENT EN 2022 ! &lpar;DÉBUTANTS / INTERMEDIAIRES&rpar;](https://www.mikecodeur.com/2022/02/24/5-librairies-react-a-connaitre-absolument-en-2022-debutants-intermediaires/)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.2&rpar; – ARGENT, CODE, FREELANCE, ENTREPRENARIAT](https://www.mikecodeur.com/2022/02/17/je-reponds-a-vos-questions-chill-and-qna-ep-2-argent-code-freelance-entreprenariat/)
-<!-- BLOG-POST-LIST:END -->
+
 </details>
+
 -->
 

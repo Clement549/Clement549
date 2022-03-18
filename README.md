@@ -1,6 +1,6 @@
 # Clément ROURE
 I'm Clément from France, living in Paris - La Défense. 
-I'm a blockchain engineering student at ESILV and I build Android & IOS mobile apps as a freelancer.
+I'm a blockchain engineering student at ESILV and I build Android & IOS mobile applications as a freelancer.
 
 <!--
 Actually:

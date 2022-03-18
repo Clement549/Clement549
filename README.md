@@ -76,9 +76,9 @@ Actually:
 
 ```mermaid
   graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
+      Code Eat;
+      Eat Sleep;
+      Sleep Code;
 ```
 -->
 

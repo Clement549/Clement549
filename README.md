@@ -1,6 +1,5 @@
 # Clément ROURE
 
-szszz
 <!--
 Actually:
 
